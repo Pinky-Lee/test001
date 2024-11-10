@@ -8,4 +8,3 @@ You can execute main.py, and you will see "Hello word"
 print("123")
 ```
 1
-123
